@@ -1,7 +1,6 @@
 ##Olá!! Eu sou a Gabriela Florêncio 👋
 
-- 🔭 Atualmente trabalho com front-end 
-- 🌱 Estudo HTML/CSS/JS
+- 🔭 Atualmente trabalho com front-end com as seguintes linguagens: React.Js, JavaScript, TypeScript, Node.Js, PHP
 - 😄 Pronouns: ela/dela
 
 <div align="center">

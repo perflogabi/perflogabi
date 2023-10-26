@@ -1,6 +1,6 @@
 ##Olá!! Eu sou a Gabriela Florêncio 👋
 
-- 🔭 Atualmente trabalho com front-end com as seguintes linguagens: React.Js, JavaScript, TypeScript, Node.Js, PHP
+- 🔭 Atualmente trabalho com front-end com as seguintes linguagens: JavaScript, React.Js, Vue.Js TypeScript, Node.Js, PHP
 - 😄 Pronouns: ela/dela
 
 <div align="center">
@@ -14,6 +14,7 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
    ##

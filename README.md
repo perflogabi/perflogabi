@@ -30,5 +30,11 @@
   <a href="https://www.linkedin.com/in/gabrielaflorenciopereira/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
     ![Snake animation](https://github.com/perflogabi/perflogabi/blob/output/github-contribution-grid-snake.svg)
+
+    ## <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> Total Profile Views 🕵️‍♀️: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/perflogabi/count.svg"/>
+ </p>
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
  
 </div>

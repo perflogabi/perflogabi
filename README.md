@@ -1,15 +1,19 @@
-##Olá!! Eu sou a Gabriela Florêncio 👋
+<h1>Hi <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> !! I'm Gabriela ! 💛 </h1>
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 Atualmente trabalho com front-end com as seguintes linguagens: JavaScript, React.Js, Vue.Js TypeScript, Node.Js, PHP
-- 😄 Pronouns: ela/dela
+- 😄 Pronouns:she/her;
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 🌱 &nbsp; I’m currently learning JavaScript and ReactJs;
+- 📕 I love the cultural variety of Brazil and the world;
+- I 💛 games.
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7B515&lines=Always+learning+new+things;Desenvolvedora+Front-end"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7B515&lines=Sempre+em+busca+de+novas+habilidades;Desenvolvedora+Front-end"></a>
 </p>
 <div align="center">
   <a href="https://github.com/perflogabi">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=perflogabi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perflogabi&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=perflogabi&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perflogabi&layout=compact&langs_count=7&theme=flag-india"/>
 </div>
 <div style="display: inline_block"><br>
    <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

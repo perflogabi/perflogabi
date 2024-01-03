@@ -3,6 +3,9 @@
 - 🔭 Atualmente trabalho com front-end com as seguintes linguagens: JavaScript, React.Js, Vue.Js TypeScript, Node.Js, PHP
 - 😄 Pronouns: ela/dela
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7B515&lines=Always+learning+new+things;Desenvolvedora+Front-end"></a>
+</p>
 <div align="center">
   <a href="https://github.com/perflogabi">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=perflogabi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -30,7 +33,7 @@
   <a href="https://www.linkedin.com/in/gabrielaflorenciopereira/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 </div>
-    ## <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> Total Profile Views 🕵️‍♀️: <br>
+  <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> Total Profile Views 🕵️‍♀️: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/perflogabi/count.svg"/>
  </p>

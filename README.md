@@ -1,11 +1,11 @@
 <h1>Hi <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> !! I'm Gabriela ! 💛 </h1>
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 😄 Pronouns:she/her;
+( HTML | CSS | JavaScript | Typescript | ReactJS | VueJS | NodeJS | PHP ) 🚀 <br> 
+
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 🌱 &nbsp; I’m currently learning JavaScript and ReactJs;
+- 🌱 &nbsp; I’m currently learning Flutter;
 - 📕 I love the cultural variety of Brazil and the world;
-- I 💛 games.
+- I 💛 games, travel and food.
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7B515&lines=Sempre+em+busca+de+novas+habilidades;Desenvolvedora+Front-end"></a>
@@ -47,10 +47,11 @@
   
    ##
 <div> 
+  <a href="https://www.linkedin.com/in/gabrielaflorenciopereira/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/gabiflope" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.behance.net/perflogabi" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
-  <a href = "https://perflogabi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabrielaflorenciopereira/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br><br>
+  <a href = "https://mail:perflogabi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <br><br>
  
 </div>
   <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> Total Profile Views 🕵️‍♀️: <br>

@@ -3,9 +3,10 @@
 ( HTML | CSS | JavaScript | Typescript | ReactJS | VueJS | NodeJS | PHP ) 🚀 <br> 
 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 🌱 &nbsp; I’m currently learning Flutter;
+- 🌱 &nbsp; I’m currently learning <strong>Flutter</strong>;
 - 📕 I love the cultural variety of Brazil and the world;
-- I 💛 games, travel and food.
+- I 💛 games, travel and food;
+- 💡 Love a good challenge.
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7B515&lines=Sempre+em+busca+de+novas+habilidades;Desenvolvedora+Front-end"></a>

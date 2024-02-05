@@ -2,7 +2,8 @@
 
 ( HTML | CSS | JavaScript | Typescript | ReactJS | VueJS | NodeJS | PHP ) 🚀 <br> 
 
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help.
+- 📫: gabrielaflorenciop@gmail.com;
 - 🌱 &nbsp; I’m currently learning <strong>Flutter</strong>;
 - 📕 I love the cultural variety of Brazil and the world;
 - I 💛 games, travel and food;

@@ -1,6 +1,6 @@
 <h1>Hi <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> !! I'm Gabriela ! 💛 </h1>
 
-( HTML | CSS | JavaScript | Typescript | ReactJS | VueJS | NodeJS | PHP ) 🚀 <br> 
+( HTML | CSS | JavaScript | Typescript | ReactJS | NextJs | VueJS | NodeJS | PHP ) 🚀 <br> 
 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help.
 - 📫: gabrielaflorenciop@gmail.com;

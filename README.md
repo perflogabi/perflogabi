@@ -1,10 +1,9 @@
-<h1>Hi <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> !! I'm Gabriela ! 💛 </h1>
+<h1>Hi! I'm Gabriela ! 💛 </h1>
 
 ( HTML | CSS | JavaScript | Typescript | ReactJS | NextJs | VueJS | NodeJS | PHP ) 🚀 <br> 
 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help.
 - 📫: gabrielaflorenciop@gmail.com;
-- 🌱 &nbsp; I’m currently learning <strong>Flutter</strong>;
 - 📕 I love the cultural variety of Brazil and the world;
 - I 💛 games, travel and food;
 - 💡 Love a good challenge.

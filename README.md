@@ -9,7 +9,7 @@
 - 💡 Love a good challenge.
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7B515&lines=Sempre+em+busca+de+novas+habilidades;Desenvolvedora+Front-end"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7B515&lines=Desenvolvedora+Full-Stack"></a>
 </p>
 <div align="center">
   <a href="https://github.com/perflogabi">
